@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "291299952450",
+    "project_id": "yestohome-e938e",
+    "storage_bucket": "yestohome-e938e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291299952450:android:7b97dae959b6524c81aadb",
+        "android_client_info": {
+          "package_name": "com.qwerty.yestohome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLGc8AunAaMV1VQoyd31oHN2nuYKOkadA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
